@@ -39,7 +39,7 @@ The goal of this project is to strengthen my understanding of building responsiv
             </p>
             <ul className="flex items-center gap-2">
               <a
-                href=""
+                href="https://github.com/Skiee9/fable-Co."
                 target="_blank"
                 rel="noreferrer"
               >
@@ -48,7 +48,7 @@ The goal of this project is to strengthen my understanding of building responsiv
                 </li>
               </a>
               <a
-                href="https://github.com/noorjsdivs"
+                href="https://github.com/Skiee9/fable-Co."
                 target="_blank"
                 rel="noreferrer"
               >
@@ -57,7 +57,7 @@ The goal of this project is to strengthen my understanding of building responsiv
                 </li>
               </a>
               <a
-                href="https://www.facebook.com/Noorlalu143/"
+                href="https://github.com/Skiee9/fable-Co."
                 target="_blank"
                 rel="noreferrer"
               >
@@ -66,7 +66,7 @@ The goal of this project is to strengthen my understanding of building responsiv
                 </li>
               </a>
               <a
-                href="https://www.linkedin.com/in/noor-mohammad-ab2245193/"
+                href="https://www.linkedin.com/in/ayushi-chaudhary-584225234"
                 target="_blank"
                 rel="noreferrer"
               >
