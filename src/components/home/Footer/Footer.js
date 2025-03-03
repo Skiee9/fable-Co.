@@ -118,10 +118,10 @@ The goal of this project is to strengthen my understanding of building responsiv
           </ul>
         </div>
         <div className="col-span-2 flex flex-col items-center w-full px-4">
-          <FooterListTitle title="Subscribe to our newsletter." />
+          <FooterListTitle title="Subscribe " />
           <div className="w-full">
             <p className="text-center mb-4">
-              A at pellentesque et mattis porta enim elementum.
+            This is not a production-level project, but a part of my front-end development practice.
             </p>
             {subscription ? (
               <motion.p
