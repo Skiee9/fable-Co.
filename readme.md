@@ -7,7 +7,7 @@ Welcome to **Fable and Co.** – Crafting meaningful stories through design, bra
 - HTML5 / CSS3 / JavaScript
 - React.js 
 - Tailwind CSS 
-- Figma (UI/UX Design)
+- Figma 
 - Vercel (Deployment)
 
 
