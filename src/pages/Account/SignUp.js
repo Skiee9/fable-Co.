@@ -103,7 +103,8 @@ const SignUp = () => {
       if (!zip) {
         setErrZip("Enter the zip code of your area");
       }
-      // ============== Getting the value ==============
+     
+      
       if (
         clientName &&
         email &&
