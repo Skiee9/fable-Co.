@@ -5,7 +5,7 @@ Welcome to **Fable and Co.** – Crafting meaningful stories through design, bra
 ## 🚀 Tech Stack
 
 - HTML5 / CSS3 / JavaScript
-- React.js / Next.js
+- React.js
 - Tailwind CSS / Styled Components
 - Figma (UI/UX Design)
 - Vercel (Deployment)
